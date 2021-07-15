@@ -1,0 +1,22 @@
+{
+  "name": "rtx",
+  "version": "1.0.0",
+  "description": "RTX Bot WA ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxrun1/rtx.git"
+  },
+  "keywords": [
+    "rtx-botwa"
+  ],
+  "author": "fwdevs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linuxrun1/rtx/issues"
+  },
+  "homepage": "https://github.com/linuxrun1/rtx#readme"
+}
